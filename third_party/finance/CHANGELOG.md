@@ -4,7 +4,7 @@ All notable changes to this plugin will be documented here.
 
 ## 1.1.2 — Bank logo
 
-- Replaced the line-art logo with the filled bank glyph used for Finance across Grok surfaces: white glyph on grok.com's Finance green (#009427, the fg-success token). No server or client-version changes.
+- Replaced the line-art logo with the filled bank glyph used for Finance across Grok surfaces in a brightened Finance green (#00b32e, grok.com's fg-success hue) on white. No server or client-version changes.
 
 ## 1.1.1 — Pre-connect disclosure
 
